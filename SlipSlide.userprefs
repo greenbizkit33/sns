@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Scripts\personOnSilder.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\startGame.js" Line="20" Column="2" />
+      <File FileName="Assets\Standard Assets\Scripts\onGUI.js" Line="14" Column="106" />
+      <File FileName="Assets\Standard Assets\Scripts\personOnSilder.js" Line="22" Column="32" />
+      <File FileName="Assets\Standard Assets\Scripts\moveSlider.js" Line="4" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
